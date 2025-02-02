@@ -28,7 +28,4 @@ This project serves as a practical example of handling text files efficiently wi
 ### 📝 Requirements  
 - Python 3.x  
 
-### ▶️ How to Run  
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/your-username/file-handler-python.git
+
